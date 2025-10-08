@@ -1,6 +1,4 @@
-# E_commerce_Sales_Performance_Excel_Project
-
-E-commerce Sales Performance Dashboard | Microsoft Excel | Advanced Excel BI Project
+# E-commerce Sales Performance Dashboard | Microsoft Excel | Advanced Excel BI Project
 
 Objective: To analyze sales performance, customer demographics, and channel efficiency to support data-driven business decisions.
 
